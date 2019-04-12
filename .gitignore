@@ -1,0 +1,7 @@
+node_modules/
+dist/*.js
+static/js/*.js
+static/css/*.css
+.node-version
+.python-version
+.DS_Store
